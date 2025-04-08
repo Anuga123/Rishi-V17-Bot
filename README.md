@@ -1,12 +1,6 @@
-<h1 align="center">𝗞𝗘𝗜𝗧𝗛-𝗠𝗗</h1>
+<h1 align="center">RISHI V17</h1>
 
 <h1 align="center">Survival is winning, frankline everything else is bullshit, fairy tales spun by people afraid to look life in the eye, do whatever it takes kid, survive 😏🙏</h1>
-
-<div style="text-align: center;">
-  <a href="https://ibb.co/N6NMDtn">
-    <img src="https://i.imgur.com/XlQIFIF.jpeg" alt="01" border="0"></a>
-  <hr style="margin-top: 20px; margin-bottom: 20px;">
-</div>
 
 <table align="center" cellpadding="10" border="1">
   <tr>
@@ -14,44 +8,31 @@
       <b>FORK</b><br>
       Fork the repository to customize and use the bot for your needs.
       <br><br>
-      <a href="https://github.com/keithkeizzah/KEITH-MD/fork">
-        <img src="https://img.shields.io/badge/FORK-purple" alt="FORK KEITH" width="150">
+      <a href="https://github.com/Anuga123/Rishi-V17-Bot/fork">
+        <alt="FORK RISHI" width="150">
       </a>
     </td>
     <td align="center">
       <b>SESSION</b><br>
       Link your session ID to start using the bot. Follow steps if issues arise.
       <br><br>
-      <a href="https://keith-session.onrender.com/pair">
-        <img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
+      <a href="https://t.me/Rishi_Bug_V16_bot/">
+        <alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>KEITH APIs</b><br>
-      Visit our website for Keith APIs and integrations (under development).
-      <br><br>
-      <a href="https://apis-keith.vercel.app/">
-        <img src="https://img.shields.io/badge/KEITH%20APIs-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="KEITH APIs" width="200">
-      </a>
-    </td>
-    <td align="center">
+    
       <b>TELEGRAM</b><br>
-      Join our official support group for help and updates.
+      Join our official support bot for help and updates.
       <br><br>
-      <a href="https://t.me/keithmd">
+      <a href="https:/t.me/Rishi_Bug_V16_bot/">
         <img src="https://img.shields.io/badge/Support%20Group-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Group" width="200">
       </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <b>DEPLOY</b><br>
-      One-click deployment to Heroku
-      <br><br>
-      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/KEITH-MD&template=https://github.com/keithkeizzah/KEITH-MD.git">
-        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+    
       </a>
     </td>
   </tr>
@@ -74,13 +55,13 @@
 <h1 align="center">Thanks to our loyal followers</h1>
 
 <p align="center">
-  <a href="https://github.com/Keithkeizzah/KEITH-MD/stargazers">
+  <a href="(https://github.com/Anuga123/Rishi-V17-Bot/)/stargazers">
     <img src="http://reporoster.com/stars/dark/Keithkeizzah/KEITH-MD" alt="Stargazers repo roster for @Keithkeizzah/KEITH-MD">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Keithkeizzah/KEITH-MD/network/members">
+  <a href="https://https://github.com/Anuga123/Rishi-V17-Bot//network/members">
     <img src="http://reporoster.com/forks/dark/Keithkeizzah/KEITH-MD" alt="Forkers repo roster for @Keithkeizzah/KEITH-MD">
   </a>
 </p>
